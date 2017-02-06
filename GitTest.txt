@@ -6,3 +6,6 @@ Test Git2
 add Clone repository file
 
 add 충돌 만들기 실습
+
+pull 원격저장소의 내용을 가져오기
+
